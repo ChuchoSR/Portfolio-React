@@ -453,6 +453,12 @@ h2{
     margin-left: 10px; 
   }
 
+  @media (max-width: 380px) {
+    .img-fluid{
+      max-width: 100px;
+    }
+  }
+
 /*   //////////////////////////////////SOCIAL/////////////////////////////////////// */
 
 .social-medias{
